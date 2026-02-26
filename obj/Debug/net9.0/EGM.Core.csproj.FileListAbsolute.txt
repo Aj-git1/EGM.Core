@@ -1,0 +1,14 @@
+D:\AllAboutCode\EGM.Core\bin\Debug\net9.0\EGM.Core.exe
+D:\AllAboutCode\EGM.Core\bin\Debug\net9.0\EGM.Core.deps.json
+D:\AllAboutCode\EGM.Core\bin\Debug\net9.0\EGM.Core.runtimeconfig.json
+D:\AllAboutCode\EGM.Core\bin\Debug\net9.0\EGM.Core.dll
+D:\AllAboutCode\EGM.Core\bin\Debug\net9.0\EGM.Core.pdb
+D:\AllAboutCode\EGM.Core\obj\Debug\net9.0\EGM.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllAboutCode\EGM.Core\obj\Debug\net9.0\EGM.Core.AssemblyInfoInputs.cache
+D:\AllAboutCode\EGM.Core\obj\Debug\net9.0\EGM.Core.AssemblyInfo.cs
+D:\AllAboutCode\EGM.Core\obj\Debug\net9.0\EGM.Core.csproj.CoreCompileInputs.cache
+D:\AllAboutCode\EGM.Core\obj\Debug\net9.0\EGM.Core.dll
+D:\AllAboutCode\EGM.Core\obj\Debug\net9.0\refint\EGM.Core.dll
+D:\AllAboutCode\EGM.Core\obj\Debug\net9.0\EGM.Core.pdb
+D:\AllAboutCode\EGM.Core\obj\Debug\net9.0\EGM.Core.genruntimeconfig.cache
+D:\AllAboutCode\EGM.Core\obj\Debug\net9.0\ref\EGM.Core.dll
