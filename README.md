@@ -18,9 +18,9 @@
 *signal door_open
 *device bill_validator ack on
 *device bill_validator ack off
-*update --package <filename>
+*update --package v2
 *version
-*os set-timezone <timezone>
+*os set-timezone Africa/Conakry
 *os show
 *status
 *exit
